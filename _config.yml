@@ -1,0 +1,2 @@
+destination: ./public
+exclude: config.rb, config, _config.yml, src, Capfile, readme.markdown, readme.md, Gemfile, Gemfile.lock, sass
